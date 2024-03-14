@@ -1,4 +1,8 @@
 ### Hi there 👋
+hello world...
+My name is Carlos Torres, I am a software developer in the making.
+I am studying Computer Science @ UTRGV ✌️.
+Currently working on Personal Projects to gain more experience
 
 <!--
 **carlostorres18/carlostorres18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
