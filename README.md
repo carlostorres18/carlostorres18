@@ -2,17 +2,16 @@
 **`Software Developer in the Making`**
 
 hello world my name is Carlos Torres, I am a Computer Science student @ UTRGV ✌. Currently working on Personal Projects to gain more experience. I have a passion for the unknown and I am eager to learn more about the cyberspace as many of you.
-#
 
-### Programming Languages
+---
+
+### 🧰 Programming Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />     
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br />
 
 #
----
-
-
 
 <details>
   <summary><h3>👨‍💻 Carlos' Coding Journey</h3></summary>
